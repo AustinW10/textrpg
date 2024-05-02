@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+    background-image: url("/images/characterimages/backgroundimages/main-menubackground.jpg");
+  }
+  
+  #characterImage {
+    max-width: 25%;
+    height: auto;
+    position: relative;
+
+    border-color: white;
+    border-width: 5px;
+    border-style: ridge;
+    
+    box-shadow: 8px 6px 5px rgb(18 18 18);
+  }

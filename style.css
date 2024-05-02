@@ -1,0 +1,16 @@
+body {
+    background-image: url("images/characterimages/backgroundimages/charactercreatorbackground.png");
+    
+}
+
+#characterCreatorForm {
+    width: 1000px;
+  }
+
+  /* Increase the font size of form elements */
+  input[type="text"],
+  select {
+    font-size: 25px;
+  
+  }
+
